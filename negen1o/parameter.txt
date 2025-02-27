@@ -1,0 +1,6 @@
+V_initial = 0.0
+addition_interval = 1200.0
+con_initial = 0.0
+dia_initial = 0.0
+hei_initial = 0.0
+C_hhtp_add = 0.003
