@@ -165,7 +165,7 @@ The NEgen1 model<sup>[3]</sup> was derived from kinetic Monte Carlo simulation r
 
 The prediction task is performed by directly running the computational engine (currently the NEgen1o model). The optimization task leverages Bayesian algorithm.<sup>[6]</sup> The design task utilize the MeanBAX<sup>[7]</sup> as the acquisition function.
 
-A detailed technical description can be found at: https://chemrxiv.org/XXX and https://doi.org/10.1002/anie.202408937
+A detailed technical description can be found at: https://chemrxiv.org/engage/chemrxiv/article-details/67baeb0e81d2151a02a991ba and https://doi.org/10.1002/anie.202408937
 
 ## License
 The Apache License 2.0 is a permissive license whose main conditions require the preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
@@ -204,7 +204,7 @@ This work was supported by the National Natural Science Foundation of China (gra
 If you find this project helpful, please cite our papers:
 
 1. **MlCOFSyn: A Machine Learning Framework to Facilitate the Synthesis of 2D Covalent Organic Frameworks**  
-   DOI: [`https://chemrxiv.org/XXX`](https://chemrxiv.org/engage/chemrxiv/article-details/67baeb0e81d2151a02a991ba)
+   DOI: [`https://chemrxiv.org/engage/chemrxiv/article-details/67baeb0e81d2151a02a991ba`](https://chemrxiv.org/engage/chemrxiv/article-details/67baeb0e81d2151a02a991ba)
 
 2. **Taming Two-Dimensional Polymerization by a Machine-Learning Discovered Crystallization Model**  
    DOI: [`https://doi.org/10.1002/anie.202408937`](https://doi.org/10.1002/anie.202408937)
