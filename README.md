@@ -204,7 +204,7 @@ This work was supported by the National Natural Science Foundation of China (gra
 If you find this project helpful, please cite our papers:
 
 1. **MlCOFSyn: A Machine Learning Framework to Facilitate the Synthesis of 2D Covalent Organic Frameworks**  
-   DOI: [`https://chemrxiv.org/XXX`](https://chemrxiv.org/XXX)
+   DOI: [`https://chemrxiv.org/XXX`](https://chemrxiv.org/engage/chemrxiv/article-details/67baeb0e81d2151a02a991ba)
 
 2. **Taming Two-Dimensional Polymerization by a Machine-Learning Discovered Crystallization Model**  
    DOI: [`https://doi.org/10.1002/anie.202408937`](https://doi.org/10.1002/anie.202408937)
@@ -235,7 +235,7 @@ If you find this project helpful, please cite our papers:
 
 [4] Li, H.; Evans, A. M.; Dichtel, W. R.; Bredas, J.-L. Quantitative Description of the Lateral Growth of Two-Dimensional Covalent Organic Frameworks Reveals Self-Templation Effects. ACS Mater. Lett. 2021, 3 (4), 398–405.
 
-[5] ChemRxiv----------
+[5] Shi Y, Tian J, Li H. MlCOFSyn: A Machine Learning Framework to Facilitate the Synthesis of 2D Covalent Organic Frameworks. ChemRxiv. 2025
 
 [6] Shields, B. J.; Stevens, J.; Li, J.; Parasram, M.; Damani, F.; Alvarado, J. I. M.; Janey, J. M.; Adams, R. P.; Doyle, A. G. Bayesian Reaction Optimization as a Tool for Chemical Synthesis. Nature 2021, 590 (7844), 89–96.
 
